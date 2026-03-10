@@ -17,7 +17,7 @@ Purpose: Shows relationship between countries and content genres
 Insights: Identifies which genres are popular in specific countries
 Color Theme: Deep red (##6D0000) for premium feel
 
-<img width="5038" height="3761" alt="CountriesAndGenresHighQuality" src="https://github.com/user-attachments/assets/2df0188a-205b-4adb-ba4a-235a5d9a1f7c" />
+<img width="2519" height="1881" alt="CountriesAndGenresHighQuality" src="https://github.com/user-attachments/assets/e5c849c1-753a-4bfb-8aab-3720a2495e18" />
 
 2️.Netflix Content by Release Year
 Type: Histogram
@@ -25,7 +25,7 @@ Purpose: Displays distribution of content over time
 Insights: Reveals Netflix's content production/ acquisition trends
 Color Theme: Vibrant pink (##FF00EA) for visual impact
  
-<img width="5048" height="3758" alt="DistributionofNetflixContentbyReleaseYear" src="https://github.com/user-attachments/assets/b4df6e18-d52a-489d-8241-82ac86a5d4f4" />
+<img width="2523" height="1879" alt="DistributionofNetflixContentbyReleaseYear" src="https://github.com/user-attachments/assets/7966b365-85dc-40c1-bfad-d58dfd967fa3" />
 
 3️.Movies vs. TV Shows Distribution
 Type: Pie Chart
@@ -33,7 +33,7 @@ Purpose: Shows the ratio of Movies to TV Shows
 Insights: Understands Netflix's content strategy balance
 Color Theme: Pink (##FF00D4) and Blue (##002AFF) contrast
 
-<img width="3866" height="3750" alt="PercentageDistributionofNetflixMoviesandTVShows" src="https://github.com/user-attachments/assets/4d84fca8-c204-47e0-8054-bbeb56000935" />
+<img width="1928" height="1875" alt="PercentageDistributionofNetflixMoviesandTVShows" src="https://github.com/user-attachments/assets/b2938ced-37f7-49aa-b039-6a8144ef8808" />
 
 4️. Content Rating Distribution
 Type: Bar Chart
@@ -41,7 +41,7 @@ Purpose: Analyzes content by maturity ratings
 Insights: Helps understand target audience segments
 Color Theme: Purple (##AE00FFC7) for sophistication
 
-<img width="5048" height="3758" alt="DistributionofNetflixTitlesbyContentRating" src="https://github.com/user-attachments/assets/86db5a53-fc5d-4863-b0d9-8816bd6ad005" />
+<img width="2523" height="1878" alt="DistributionofNetflixTitlesbyContentRating" src="https://github.com/user-attachments/assets/78efe704-ea8f-4cfe-b95f-e9981f1f5a34" />
 
 ## Technologies Used
 Category	Tools/Libraries
