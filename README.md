@@ -1,6 +1,4 @@
-# Exploratory_Data_Analysis
-
-Netflix Content Analysis & Visualization
+## Netflix Content Analysis & Visualization
  
 # Project Overview
 An extensive data visualization and analysis project exploring Netflix's content library. This project transforms raw Netflix data into meaningful insights through various visualization techniques, showcasing content distribution across countries, genres, ratings, and release years.
