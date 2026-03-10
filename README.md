@@ -25,7 +25,7 @@ Purpose: Displays distribution of content over time
 Insights: Reveals Netflix's content production/ acquisition trends
 Color Theme: Vibrant pink (##FF00EA) for visual impact
  
-<img width="606" height="452" alt="image" src="https://github.com/user-attachments/assets/f62070cd-dd72-47d2-9ddb-c0303f605108" />
+<img width="5048" height="3758" alt="DistributionofNetflixContentbyReleaseYear" src="https://github.com/user-attachments/assets/b4df6e18-d52a-489d-8241-82ac86a5d4f4" />
 
 3️.Movies vs. TV Shows Distribution
 Type: Pie Chart
@@ -33,7 +33,7 @@ Purpose: Shows the ratio of Movies to TV Shows
 Insights: Understands Netflix's content strategy balance
 Color Theme: Pink (##FF00D4) and Blue (##002AFF) contrast
 
- <img width="464" height="450" alt="image" src="https://github.com/user-attachments/assets/f43e6e91-b0bc-44b0-a549-632eea894521" />
+<img width="3866" height="3750" alt="PercentageDistributionofNetflixMoviesandTVShows" src="https://github.com/user-attachments/assets/4d84fca8-c204-47e0-8054-bbeb56000935" />
 
 4️. Content Rating Distribution
 Type: Bar Chart
@@ -41,7 +41,7 @@ Purpose: Analyzes content by maturity ratings
 Insights: Helps understand target audience segments
 Color Theme: Purple (##AE00FFC7) for sophistication
 
- <img width="606" height="451" alt="image" src="https://github.com/user-attachments/assets/a8876747-e576-4ca6-944a-0fff644cb949" />
+<img width="5048" height="3758" alt="DistributionofNetflixTitlesbyContentRating" src="https://github.com/user-attachments/assets/86db5a53-fc5d-4863-b0d9-8816bd6ad005" />
 
 ## Technologies Used
 Category	Tools/Libraries
