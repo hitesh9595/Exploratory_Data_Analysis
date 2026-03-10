@@ -17,7 +17,7 @@ Purpose: Shows relationship between countries and content genres
 Insights: Identifies which genres are popular in specific countries
 Color Theme: Deep red (##6D0000) for premium feel
 
-<img width="605" height="451" alt="image" src="https://github.com/user-attachments/assets/d34944df-b973-414e-9f06-c4b58d1b3160" />
+<img width="5038" height="3761" alt="CountriesAndGenresHighQuality" src="https://github.com/user-attachments/assets/2df0188a-205b-4adb-ba4a-235a5d9a1f7c" />
 
 2️.Netflix Content by Release Year
 Type: Histogram
